@@ -1,5 +1,4 @@
-# Blind Source Separation in Complex Marine Soundscapes: 
-# An Unsupervised Two-Stage Clustering Based on Non-negative Matrix Factorization
+# Blind Source Separation in Complex Marine Soundscapes: An Unsupervised Two-Stage Clustering Based on Non-negative Matrix Factorization
 
 - **Title**: Blind Source Separation in Complex Marine Soundscapes: An Unsupervised Two-Stage Clustering Based on Non-negative Matrix Factorization
 - **Authors**: Bingjia Huang, Zhipeng Li, Xiaoping Wang

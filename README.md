@@ -12,4 +12,4 @@ This repository provides the implementation of our proposed unsupervised blind s
 4. Support for marine soundscape data
 
 If you use this code or dataset in your research, please cite our paper:
-Bingjia Huang, Zhipeng Li, Xiaoping Wang. Blind Source Separation in Complex Marine Soundscapes: An Unsupervised Two-Stage Clustering Based on Non-negative Matrix Factorization. The Journal of the Acoustical Society of America, 2025.
+Bingjia Huang, Zhipeng Li, Xiaoping Wang. Blind Source Separation in Complex Marine Soundscapes: An Unsupervised Two-Stage Clustering Based on Non-negative Matrix Factorization. The Journal of the Acoustical Society of America, 2025.10.1121/10.0043607
